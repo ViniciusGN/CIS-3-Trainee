@@ -8,17 +8,17 @@ Este projeto faz parte do processo Trainee do Computational Inteligence Society 
 
 ### Observações:
 Os conteúdos utilizados foram:
-- Introdução a Redes Neurais:
-i. Perceptron com 1 ou mais camadas
-ii. Backpropagation
-iii. Operações vetoriais
-iv. Gradiente descendente
-v. Ótimo local e global
-vi. Métricas de avaliação
-vii. Função de custo
-viii. Overfitting e underfitting
-ix. Função de ativação
-x. Learning rate
+ - Introdução a Redes Neurais:
+- Perceptron com 1 ou mais camadas
+- Backpropagation
+- Operações vetoriais
+- Gradiente descendente
+- Ótimo local e global
+- Métricas de avaliação
+- Função de custo
+- Overfitting e underfitting
+- Função de ativação
+- Learning rate
  - Implementação de Regressão Linear com perceptron;
  - Problemas lineares e não lineares;
  - Implementação usando TensorFlow.
